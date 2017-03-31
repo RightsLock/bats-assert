@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/ztombol/bats-assert/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/ztombol/bats-assert.svg)](https://github.com/ztombol/bats-assert/releases/latest)
-[![Build Status](https://travis-ci.org/ztombol/bats-assert.svg?branch=master)](https://travis-ci.org/ztombol/bats-assert)
+[![Build Status](https://travis-ci.org/RightsLock/bats-assert.svg?branch=contains)](https://travis-ci.org/RightsLock/bats-assert)
 
 `bats-assert` is a helper library providing common assertions for
 [Bats][bats].
